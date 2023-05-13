@@ -1,0 +1,14 @@
+.color-nav {
+  background-color: #fa8072;
+}
+.logo {
+  margin-right: auto;
+  padding-left: 10px;
+}
+a {
+  margin-left: 50px;
+  font-size: 18px;
+}
+.nav-link:hover {
+  color: aquamarine;
+}
