@@ -10,7 +10,7 @@ export default function navbar() {
           <h3>🐱GummyKitty🐯</h3>
         </Nav.Link>
         <Nav.Link href="/About">🐰About</Nav.Link>
-        <Nav.Link href="/Project">🍖Project</Nav.Link>
+        <Nav.Link href="https://park21306.github.io/Project">🍖Project</Nav.Link>
         <Nav.Link href="/Cer">👩‍💻Certificate</Nav.Link>
       </Container>
     </Navbar>
