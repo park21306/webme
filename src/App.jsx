@@ -13,7 +13,7 @@ function App() {
         <Route path="/" element={<About />}></Route>
         <Route path="/About" element={<Navigate to="/" />}></Route>
         <Route path="/Cer" element={<Cer />}></Route>
-        <Route path="https://park21306.github.io/Project" element={<Project />}></Route>
+        <Route path="/Project" element={<Project />}></Route>
       </Routes>
     </BrowserRouter>
   );
